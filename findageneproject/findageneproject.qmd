@@ -1,0 +1,61 @@
+---
+title: "Find-a-Gene Project"
+author: "Alishba Qadri"
+subtitle: aqadri@ucsd.edu | A18560903
+format: pdf
+editor: visual
+---
+
+## Q1.
+
+Name: RBP4 protein
+
+Species: Homo sapiens (human)
+
+Accession Number: P02753
+
+Known Function: It carries retinol (vitamin A alcohol) from liver stores, through blood, and into peripheral tissues. It causes vitamin A deficiency if it is blocked and unable to supply retinol to epidermal cells.
+
+## Q2.
+
+Blast Method: TBLASTN
+
+Database: Expressed Sequence Tags (est)
+
+Organism: Amphibia (taxid:8292)
+
+![](images/clipboard-4127457007.png)
+
+Chosen match: Accession CN064263.1, a 731 base pair clone from Ambystoma tigrinum. First match of screenshot below.
+
+![](images/clipboard-2529199969.png)
+
+![](images/clipboard-1039311470.png)
+
+## Q3.
+
+A. tigrinum protein GLGCGIGKMDMKACGLLVALGFVASCLAERDCTVSNFPVMQNFDRYRYTGTWYAMAKKDPEGLFLLDNIVAKFTVDDYGRMLATAKGRVVIFGGFQLCADMVGIFTDTDDPAKFVMQYRGLLAYLENGQDPHWVVDTDYDTYALHYSCRRLNDDGTCADSYSFVFSRDPNGLTPEAQRIVRKRQKELCLDREYRMVAHNGYCEGNKYE
+
+Name: Ambystoma protein
+
+Species: Ambystoma tigrinum (tiger salamander)
+
+Eukaryota; Metazoa; Chordata; Craniata;Vertebrata; Euteleostomi;Amphibia; Batrachia; Caudata; Salamandroidea; Ambystomatidae; Ambystoma
+
+![](images/clipboard-3963262924.png)
+
+## Q4.
+
+A BLASTP search against NR database yielded a top hit result to a protein from Ambystoma mexicanum (axolotl).
+
+![](images/clipboard-620799609.png)
+
+The top result is to a protein from Ambystoma mexicanum (axolotl).
+
+![](images/clipboard-3086031437.png)
+
+In order to confirm my protein was novel, I blasted against my species (Ambystoma tigrinum) only. I received no matches.
+
+![](images/clipboard-4189466847.png)
+
+![](images/clipboard-2432735722.png)
